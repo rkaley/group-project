@@ -26,13 +26,13 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: purple;
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
+    color: orange;
     background-color: lightblue;
     padding: 3px;
 }
@@ -46,6 +46,6 @@ main h2 {
 }
 
 .my-bio {
-    background-color: green;
+    background-color: black;
     color: white;
 }
